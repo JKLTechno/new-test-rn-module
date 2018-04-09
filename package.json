@@ -1,0 +1,19 @@
+{
+  "name": "new-test-rn-module",
+  "version": "0.1.0",
+  "description": "new repo for react-native-module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKLTechno/new-test-rn-module.git"
+  },
+  "author": "Dhanapal Gopalsamy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JKLTechno/new-test-rn-module/issues"
+  },
+  "homepage": "https://github.com/JKLTechno/new-test-rn-module#readme"
+}
