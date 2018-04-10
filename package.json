@@ -1,6 +1,6 @@
 {
   "name": "new-test-rn-module",
-  "version": "0.1.0",
+  "version": "0.1.01",
   "description": "new repository for live chat from JKL Technologies PVT LTD",
   "main": "SOCAmsLiveChat.js",
   "scripts": {
