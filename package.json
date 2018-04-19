@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/JKLTechno/new-test-rn-module/issues"
   },
-  "homepage": "https://github.com/JKLTechno/new-test-rn-module#readme"
+  "homepage": "https://github.com/JKLTechno/new-test-rn-module#readme",
+  "dependencies": {
+    "react-native-animatable": "^1.2.4",
+    "react-native-gifted-chat": "^0.4.3",
+    "react-native-movable-view": "^1.0.3"
+  }
 }
